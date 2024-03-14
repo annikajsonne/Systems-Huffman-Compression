@@ -7,6 +7,8 @@
 
 **Date:** 05.12.2023
 
+## Introduction
+
 This repository contains a C program for compressing or decompressing a text file using Huffman compression.
 
 ## Code Overview
