@@ -1,7 +1,11 @@
 # Huffman Compression & Decompression
-Rula Al-Saloom & Annika Sonne 
-Intro to Systems Programming Daniel Stevenson
-05.12.2023
+**Authors:** Annika Sonne & Rula Al-Saloom
+
+**Course:** COMP 2355 Intro to Systems Programming 
+
+**Instructor:** Daniel Stevenson
+
+**Date:** 05.12.2023
 
 This repository contains a C program for compressing or decompressing a text file using Huffman compression.
 
